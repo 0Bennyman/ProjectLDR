@@ -1,0 +1,182 @@
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\AdvancedSteamFriendsLibrary.cpp
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamFriendsLibrary.h
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
+I:\Epic Games Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerState.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineSessionInterface.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemTypes.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemNames.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineDelegateMacros.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSessionSettings.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineKeyValuePair.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystem.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemModule.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemImpl.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineSubsystemUtils.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\OnlineSubsystemUtilsModule.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineIdentityInterface.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineIdentityErrors.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineError.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineErrorMacros.inl
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Online.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineChatInterface.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineFriendsInterface.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineEventsInterface.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlinePartyInterface.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineExternalUIInterface.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineMessageInterface.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/VoiceInterface.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineTitleFileInterface.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineAchievementsInterface.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\OnlineStats.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlinePresenceInterface.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineEntitlementsInterface.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineUserCloudInterface.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineUserInterface.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineStatsInterface.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\VoipListenerSynthComponent.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\Components/SynthComponent.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+I:\Epic Games Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+I:\Epic Games Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWaveProcedural.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\SynthComponent.generated.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\VoicePacketBuffer.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\Engine\Public\Net/VoiceDataCommon.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\Engine\Public\Net/VoiceConfig.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/EnvelopeFollower.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+I:\Epic Games Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioSettings.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\VoiceConfig.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/DynamicsProcesser.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/Delay.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/WaveTableOsc.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/EQ.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/Filter.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/ModulationMatrix.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\AudioMixer\Public\DSP/BiQuadFilter.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemUtils\VoipListenerSynthComponent.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemUtils\OnlineSubsystemUtilsClasses.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/AchievementBlueprintLibrary.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\AchievementBlueprintLibrary.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/AchievementQueryCallbackProxy.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\Engine\Public\Net/OnlineBlueprintCallProxyBase.h
+I:\Epic Games Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineBlueprintCallProxyBase.generated.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\AchievementQueryCallbackProxy.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/AchievementWriteCallbackProxy.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\AchievementWriteCallbackProxy.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/ConnectionCallbackProxy.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\ConnectionCallbackProxy.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/CreateSessionCallbackProxy.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\CreateSessionCallbackProxy.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/DestroySessionCallbackProxy.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\DestroySessionCallbackProxy.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/EndMatchCallbackProxy.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineTurnBasedInterface.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem\OnlineTurnBasedInterface.generated.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\EndMatchCallbackProxy.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/EndTurnCallbackProxy.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/TurnBasedMatchInterface.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem\TurnBasedMatchInterface.generated.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\EndTurnCallbackProxy.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/FindSessionsCallbackProxy.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\FindSessionsCallbackProxy.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/FindTurnBasedMatchCallbackProxy.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\FindTurnBasedMatchCallbackProxy.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/InAppPurchaseCallbackProxy.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineStoreInterface.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem\OnlineStoreInterface.generated.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\InAppPurchaseCallbackProxy.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/InAppPurchaseQueryCallbackProxy.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\InAppPurchaseQueryCallbackProxy.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/InAppPurchaseRestoreCallbackProxy.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\InAppPurchaseRestoreCallbackProxy.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/IpConnection.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\Sockets\Public\SocketTypes.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\IpConnection.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/IpNetDriver.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\Core\Public\Containers/CircularQueue.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\Core\Public\Containers/CircularBuffer.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\IpNetDriver.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/JoinSessionCallbackProxy.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\JoinSessionCallbackProxy.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/LeaderboardBlueprintLibrary.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\LeaderboardBlueprintLibrary.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/LeaderboardFlushCallbackProxy.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineLeaderboardInterface.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\LeaderboardFlushCallbackProxy.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/LeaderboardQueryCallbackProxy.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\LeaderboardQueryCallbackProxy.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/LogoutCallbackProxy.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintAsyncActionBase.h
+I:\Epic Games Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintAsyncActionBase.generated.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\LogoutCallbackProxy.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/TestBeaconClient.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineBeaconClient.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\OnlineBeacon.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\OnlineBeacon.generated.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\OnlineBeaconClient.generated.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\TestBeaconClient.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/TestBeaconHost.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineBeaconHostObject.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\OnlineBeaconHostObject.generated.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\TestBeaconHost.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/OnlineSessionClient.h
+I:\Epic Games Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineSession.h
+I:\Epic Games Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineSession.generated.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\OnlineSessionClient.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/QuitMatchCallbackProxy.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\QuitMatchCallbackProxy.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/ShowLoginUICallbackProxy.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\ShowLoginUICallbackProxy.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/TurnBasedBlueprintLibrary.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\TurnBasedBlueprintLibrary.generated.h
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\BlueprintDataDefinitions.generated.h
+I:\Epic Games Games\UE_4.22\Engine\Source\ThirdParty\Steamworks\Steamv139\sdk\public\steam/steam_api.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteamclient.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\steamtypes.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\steamclientpublic.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\steamuniverse.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteamuser.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteamfriends.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteamutils.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteammatchmaking.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\matchmakingtypes.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteamuserstats.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteamremotestorage.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteamapps.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteamnetworking.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteamscreenshots.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteammusic.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteammusicremote.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteamhttp.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\steamhttpenums.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteamunifiedmessages.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteamcontroller.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteamugc.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteamapplist.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteamhtmlsurface.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteaminventory.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\isteamvideo.h
+i:\epic games games\ue_4.22\engine\source\thirdparty\steamworks\steamv139\sdk\public\steam\steam_api_internal.h
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions\AdvancedSteamFriendsLibrary.generated.h
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\OnlineSubSystemHeader.h
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\AdvancedSteamSessions.cpp
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamSessions.h
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\AdvancedSteamWorkshopLibrary.cpp
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamWorkshopLibrary.h
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions\AdvancedSteamWorkshopLibrary.generated.h
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\SteamRequestGroupOfficersCallbackProxy.cpp
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamRequestGroupOfficersCallbackProxy.h
+I:\Epic Games Games\UE_4.22\Engine\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteam.h
+i:\epic games games\ue_4.22\engine\plugins\online\onlinesubsystemsteam\source\public\OnlineSubsystemSteamPackage.h
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions\SteamRequestGroupOfficersCallbackProxy.generated.h
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\SteamWSRequestUGCDetailsCallbackProxy.cpp
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamWSRequestUGCDetailsCallbackProxy.h
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions\SteamWSRequestUGCDetailsCallbackProxy.generated.h
