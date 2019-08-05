@@ -1,0 +1,5 @@
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Source\EvilCube\EvilCube.Build.cs
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\AdvancedSessions.Build.cs
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\AdvancedSteamSessions.Build.cs
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Source\EvilCube.Target.cs
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Source\EvilCubeEditor.Target.cs

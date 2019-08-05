@@ -1,0 +1,2 @@
+C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Intermediate\Build\Win64\UE4Editor\Development\EvilCube\Definitions.EvilCube.h
+c:\users\0bennyman\documents\unreal projects\evilcube\source\evilcube\MyClass.h

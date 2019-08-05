@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-EvilCube-8995.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Intermediate\Build\Win64\EvilCubeEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Intermediate\Build\Win64\UE4Editor\Development\EvilCube\EvilCube.cpp.obj"
+"C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Intermediate\Build\Win64\UE4Editor\Development\EvilCube\MyClass.cpp.obj"
+"C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Intermediate\Build\Win64\UE4Editor\Development\EvilCube\Default.rc2.res"
+/OUT:"C:\Users\0Bennyman\Documents\Unreal Projects\EvilCube\Intermediate\Build\Win64\UE4Editor\Development\EvilCube\UE4Editor-EvilCube-8995.lib"
+/INCLUDE:IMPLEMENT_MODULE_EvilCube
